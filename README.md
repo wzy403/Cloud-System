@@ -38,21 +38,27 @@ Windows & OS X & Linux:
 ### Usage example 
 
 * Demo of signup and login
+
 ![Demo-signup-login](https://github.com/Zhengyu-Joey-Wang/img-folder/blob/master/Demo-signup-login.gif)
 
 * Demo of upload and download file to the Cloud
+
 ![Demo-upload-download-file](https://github.com/Zhengyu-Joey-Wang/img-folder/blob/master/Demo-upload-download-file.gif)
 
 * Demo of rename file from the Cloud
+
 ![Demo-rename-file](https://github.com/Zhengyu-Joey-Wang/img-folder/blob/master/Demo-rename-file.gif)
 
 * Demo of deleting file from the Cloud
+
 ![Demo-del-file](https://github.com/Zhengyu-Joey-Wang/img-folder/blob/master/Demo-del-file.gif)
 
-* Demo of AirDrop
+* Demo of AirDrop section
+
 ![AirDrop](https://github.com/Zhengyu-Joey-Wang/img-folder/blob/master/AirDrop.jpg)
 
 * Demo of getting the AirDrop file
+
 ![AirDrop-Sample-Demo](https://github.com/Zhengyu-Joey-Wang/img-folder/blob/master/AirDrop-Sample-Demo.jpg)
 
 ## Deployment
