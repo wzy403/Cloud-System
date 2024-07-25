@@ -78,7 +78,7 @@ Windows & OS X & Linux:
 
 ## Authors
 
-* **Joey Wnag** - *Initial work* - [Blog not finished](Blog)
+* **Joey Wnag** - *Initial work* - [Blog](https://www.wzy403.com/)
 
 ## License 授权协议
 
